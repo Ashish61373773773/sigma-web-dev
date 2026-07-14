@@ -1,0 +1,69 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbaar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 60px;
+    height: 70px;
+    width: 90vw;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(249, 249, 249);
+}
+
+.logo {
+    width: 150px;
+    height: 55px;
+    margin-left: 15px;
+
+}
+
+.product {
+    width: 450px;
+    height: 55px;
+    margin-left: 130px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul li {
+    margin-top: 15px;
+    list-style: none;
+}
+
+.box3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px;
+    height: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+.box3 button {
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 52);
+    text-transform: capitalize;
+
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}

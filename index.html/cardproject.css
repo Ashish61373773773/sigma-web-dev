@@ -1,0 +1,106 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-color: gray;
+        }
+
+        .cantainer {
+            margin-top: 80px;
+            margin-left: 450px;
+            height: 70vh;
+            width: 25vw;
+            border: 1px solid white;
+            background-color: white;
+        }
+        .box {
+            height: 65vh;
+            width: 20vw;
+            ;
+            border: 1px solid black;
+            margin: 10px auto;
+            /* outline: 2px solid black;
+            outline-offset: 23px; */
+            border-radius: 10px;
+            background-color: white;
+        }
+
+        .box1 {
+            height: 40%;
+            width: 96%;
+
+            margin: 4px auto;
+            background-size: cover;
+            background-image: url(https://www.bing.com/th/id/OIP.RNCQyNWNTaFBeT0yK7wH_gHaE8?w=266&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+            border-radius: 15px;
+
+        }
+
+        .box2 {
+            height: 6%;
+            width: 90%;
+            margin: 4px auto;
+            margin-top: 12px;
+
+        }
+
+        .box3 {
+            height: 30%;
+            width: 90%;
+            margin: 5px auto;
+
+        }
+
+        .box4 {
+            height: 8%;
+            width: 90%;
+            margin: 4px auto;
+
+
+        }
+        .buttontwo {
+            height: 25px;
+            width: 60px;
+            margin-top: 5px;
+            margin-left: 20px;
+            border-radius: 10px;
+            border: 2px;
+        }
+
+        .buttonone {
+            height: 25px;
+            width: 60px;
+            margin-left: 10px;
+            border-radius: 10px;
+            border: 2px;
+            color: rgb(80, 135, 229);
+
+        }
+
+        .button3 {
+            border: none;
+            height: 35px;
+            width: 100px;
+            border-radius: 20px;
+            margin-left: 70px;
+
+            color: rgb(13, 133, 220);
+            background-color: rgb(201, 243, 255);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        h2 {
+            margin-top: 30px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        p {
+            margin-top: 15px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        a {
+
+            text-decoration: none;
+        }
